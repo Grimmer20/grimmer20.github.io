@@ -1,0 +1,40 @@
+table {
+	border-style: solid;
+	padding: 25px;
+	margin-top:25px;
+	margin-bottom:25;
+}
+
+#logo {
+	max-width: 80%;
+	max-height: 80%;
+	margin: 0 auto;
+}
+
+.benefits {
+	border-style: solid;
+}
+
+.works {
+	border-style: solid;
+	margin-top: 50px;
+}
+
+table {
+	background-image: url(http://b2binsights.com/wp-content/uploads/2012/12/teamwork1.jpg);
+	color: red;
+}
+
+h2 {
+	font-family: Helvetica;
+}
+
+a:visited {
+	color: red;
+}
+
+@media screen and (max-width 500px) {
+	.responsive {
+		margin-top: 50px;
+	}
+}
