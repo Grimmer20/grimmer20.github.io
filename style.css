@@ -33,8 +33,10 @@ a:visited {
 	color: red;
 }
 
-@media screen and (max-width 500px) {
+@media screen and (max-width: 500px) {
 	.responsive {
-		margin-top: 50px;
+		border-style: dotted;
+		padding: 25px;
+		margin-top: 25px;
 	}
 }
