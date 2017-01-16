@@ -1,14 +1,2 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<link rel="stylesheet" type="text/css" href="style.css">
-	<title> Personal Website</title>
-
-</head>
-<body>
-# grimmer20.github.io
-Personal Website
-</body>
-</html>
-
+I am in the process of building my website using AngularJS. This is a placeholder from the very begining of me learning how to code.
 
